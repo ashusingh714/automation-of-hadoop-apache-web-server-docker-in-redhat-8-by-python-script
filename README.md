@@ -1,0 +1,1 @@
+# automation-of-hadoop-apache-web-server-docker-in-redhat-8-by-python-script
